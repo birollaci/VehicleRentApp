@@ -1,4 +1,4 @@
-# szakdolgozat
+# RentApp SpringBoot szerverrel (szakdolgozat)
 Springboot szerveralkalmazás és a hozzá tartozó kliens
 
 Github link: https://github.com/birollaci/szakdolgozat
